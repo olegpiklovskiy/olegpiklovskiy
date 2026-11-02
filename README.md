@@ -1,16 +1,18 @@
-## Hi there 👋
+# Олег Пікловський
 
-<!--
-**olegpiklovskiy/olegpiklovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Вітаю на моїй сторінці GitHub!
 
-Here are some ideas to get you started:
+Цікавлюся сучасними технологіями, штучним інтелектом, автоматизацією та підприємництвом. Досліджую цифрові інструменти й працюю над власними проєктами.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Напрями інтересів
+
+- Штучний інтелект та автоматизація
+- Програмування і цифрові технології
+- Підприємництво та інновації
+
+## Мої профілі
+
+- [LinkedIn](ПОСИЛАННЯ)
+- [Medium](ПОСИЛАННЯ)
+- [About.me](ПОСИЛАННЯ)
+
